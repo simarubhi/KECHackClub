@@ -6,11 +6,11 @@
 
 1. [Scratch & Makey Makey's](scratch&makey-makey)
 2. [Web development](web-development)
-    <!-- 3. [Machine learning](machine-learning) -->
+3. [Machine learning](machine-learning)
     <!-- 4. [Game development](game-development) -->
     <!-- 5. [Robots & hardware](robots&hardware) -->
     <!-- 6. [Mobile development](mobile-development) -->
-3. [General programming](general-programming)
+4. [General programming](general-programming)
 
 ### Not sure what you want to do? Start here!
 
