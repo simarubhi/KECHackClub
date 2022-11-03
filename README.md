@@ -11,6 +11,7 @@
     <!-- 5. [Robots & hardware](robots&hardware) -->
     <!-- 6. [Mobile development](mobile-development) -->
 4. [General programming](general-programming)
+5. [Programming competitions](programming-competitions)
 
 ### Not sure what you want to do? Start here!
 
