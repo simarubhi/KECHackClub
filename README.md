@@ -13,6 +13,10 @@
 4. [General programming](general-programming)
 5. [Programming competitions](programming-competitions)
 
+### Check out our web development workshops
+
+-   [Web development workshops](web-development/workshops/)
+
 ### Not sure what you want to do? Start here!
 
 -   Think about what you're interested in making.
