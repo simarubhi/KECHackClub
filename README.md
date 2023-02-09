@@ -1,6 +1,12 @@
 # Welcome to the KEC Hack Club!
 
+![Hack Club](hackclub-flag.svg)
+
 ## Gettings started
+
+### Join our discord
+
+[Discord Server](https://discord.gg/b7CaR4tn)
 
 ### Pick a category to explore
 

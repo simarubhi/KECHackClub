@@ -1,3 +1,3 @@
 ### Workshops:
 
-1. [JavaScript Stopwatch](workshops/stopwatch)
+1. [JavaScript Stopwatch](stopwatch)
