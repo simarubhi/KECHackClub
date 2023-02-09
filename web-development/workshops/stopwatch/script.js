@@ -56,7 +56,7 @@ const timerCount = () => {
 
 	updateDisplay(); // Show the new time values
 
-	setTimeout(timerCount, 1000); // Count ever 1000ms (1 second)
+	setTimeout(timerCount, 1000); // Count every 1000ms (1 second)
 };
 
 // Show the new time values
