@@ -10,4 +10,4 @@ We can also use [Codeforces](https://codeforces.com/), [CodingBat](https://codin
 
 ## Our competitions
 
--   ### [November 3, 2022](nov-3-2022)
+-   ### [Problem Set #1](problem-set-1)

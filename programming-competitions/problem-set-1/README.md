@@ -1,4 +1,4 @@
-# Today's problems
+# Problem set #1
 
 1. [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)
 2. [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004)
