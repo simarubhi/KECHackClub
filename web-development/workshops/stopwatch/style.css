@@ -1,37 +1,43 @@
+/* This acts as a reset for default styling */
 * {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
 }
 
+/* Standardize the font size */
 :root {
 	font-size: 16px;
 }
 
+/* Container to center stopwatch */
 .container {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	width: 100vw;
-	height: 100vh;
+	display: flex; /* Flex container */
+	justify-content: center; /* Horizontally center */
+	align-items: center; /* Vertically center */
+	width: 100vw; /* 100% of the viewport width */
+	height: 100vh; /* 100% of the viewport height */
 }
 
+/* Stopwatch */
 .container .stopwatch {
 	display: flex;
-	flex-direction: column;
+	flex-direction: column; /* Puts the flexbox into a column instead of a row */
 	justify-content: center;
 	align-items: center;
-	padding: 30px 50px;
+	padding: 30px 50px; /* Adds 30px padding to the top and bottom, 50px to both sides */
 	width: 500px;
-	box-shadow: 0 0 5px lightgray;
-	border-radius: 5px;
-	user-select: none;
+	box-shadow: 0 0 5px lightgray; /* Adds a shadow (0px from x, 0 px from y, 5px blur, color) */
+	border-radius: 5px; /* Makes the edges rounded */
+	user-select: none; /* A user won't be able to highlight anything in the stopwatch */
 }
 
+/* Container with all display information */
 .container .stopwatch .display-container {
 	display: flex;
 }
 
+/* Container for hour, minute, second value and label */
 .container .stopwatch .display-container .data-container {
 	display: flex;
 	flex-direction: column;
@@ -39,45 +45,55 @@
 	align-items: center;
 }
 
+/* You can select multiple elements by using a comma */
+/* Time value and colons */
 .container .stopwatch .display-container .data-container .time-value,
 .container .stopwatch .display-container .colon {
-	font-size: 112px;
+	font-size: 112px; /* Change the font size */
 }
+
+/* Labels underneath time values */
 .container .stopwatch .display-container .data-container .label {
 	font-size: 24px;
 }
 
+/* Container of buttons */
 .container .stopwatch .button-container {
 	display: flex;
-	justify-content: space-evenly;
+	justify-content: space-evenly; /* Learn more: https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content */
 	align-items: center;
-	margin-top: 20px;
+	margin-top: 20px; /* Only apply margin top */
 }
 
+/* Select all the buttons */
 .container .stopwatch .button-container .btn {
-	margin: 5px;
-	padding: 5px 15px;
+	margin: 5px; /* Margin will create a gap between the buttons */
+	padding: 5px 15px; /* Padding will give extra height and width to each button (5px top and bottom, 15px on each side) */
 	width: 100%;
 	font-size: 36px;
-	border: none;
+	border: none; /* Get rid of default border */
 	border-radius: 5px;
-	color: white;
+	color: white; /* Set the font color to white */
 }
 
+/* When hovering on a button: */
 .container .stopwatch .button-container .btn:hover,
 .container .stopwatch .button-container .btn:focus,
 .container .stopwatch .button-container .btn:active {
-	cursor: pointer;
+	cursor: pointer; /* Change the moust cursor to a pointing finger */
 }
 
+/* Start/resume button */
 .container .stopwatch .button-container .btn.start {
-	background-color: forestgreen;
+	background-color: forestgreen; /* Set the color to green */
 }
 
+/* Stop button */
 .container .stopwatch .button-container .btn.stop {
-	background-color: red;
+	background-color: red; /* Set the color to red */
 }
 
+/* Reset button */
 .container .stopwatch .button-container .btn.reset {
-	background-color: dimgray;
+	background-color: dimgray; /* Set the color to gray */
 }

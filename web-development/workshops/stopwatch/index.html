@@ -12,38 +12,57 @@
 		<title>Stopwatch</title>
 		<!-- Link to CSS styling from style.css -->
 		<link rel="stylesheet" href="style.css" />
+		<!-- Page favicon (Image in the tab) -->
+		<link rel="icon" href="clock-icon.png" />
 	</head>
 	<body>
+		<!-- Container to help center the stopwatch -->
 		<div class="container">
+			<!-- Stopwatch -->
 			<div class="stopwatch">
+				<!-- Contains all the numbers to display the time -->
 				<div class="display-container">
+					<!-- Contains the data and label for hours -->
 					<div class="data-container">
+						<!-- Hour value -->
 						<span class="time-value hour">00</span>
+						<!-- Hour label -->
 						<span class="label">Hours</span>
 					</div>
 
 					<span class="colon">:</span>
 
+					<!-- Contains the data and label for minutes -->
 					<div class="data-container">
+						<!-- Minute value -->
 						<span class="time-value minute">00</span>
+						<!-- Minute label -->
 						<span class="label">Minutes</span>
 					</div>
 
 					<span class="colon">:</span>
 
+					<!-- Contains the data and label for seconds -->
 					<div class="data-container">
+						<!-- Second value -->
 						<span class="time-value second">00</span>
+						<!-- Second label -->
 						<span class="label">Seconds</span>
 					</div>
 				</div>
 
+				<!-- Contains all the buttons -->
 				<div class="button-container">
+					<!-- Start/Resume button -->
 					<button class="btn start">Start</button>
+					<!-- Stop button -->
 					<button class="btn stop">Stop</button>
+					<!-- Reset button -->
 					<button class="btn reset">Reset</button>
 				</div>
 			</div>
 		</div>
+		<!-- Link to our JavaScript file -->
 		<script src="script.js"></script>
 	</body>
 </html>
