@@ -61,22 +61,24 @@ const timerCount = () => {
 
 // Show the new time values
 const updateDisplay = () => {
-	// If the seconds is less than 10
+	// If the hours are less than 10
 	if (hourValue < 10) {
 		hourDisplay.innerHTML = '0' + hourValue; // Add a 0 (as a string) in front of the value so the clock keeps the same display format
 	} else {
 		hourDisplay.innerHTML = hourValue; // Otherwise display the two digit value
 	}
 
+	// If the minutes are less than 10
 	if (minuteValue < 10) {
-		minuteDisplay.innerHTML = '0' + minuteValue;
+		minuteDisplay.innerHTML = '0' + minuteValue; // Add a 0 (as a string) in front of the value so the clock keeps the same display format
 	} else {
-		minuteDisplay.innerHTML = minuteValue;
+		minuteDisplay.innerHTML = minuteValue; // Otherwise display the two digit value
 	}
 
+	// If the seconds is less than 10
 	if (secondValue < 10) {
-		secondDisplay.innerHTML = '0' + secondValue;
+		secondDisplay.innerHTML = '0' + secondValue; // Add a 0 (as a string) in front of the value so the clock keeps the same display format
 	} else {
-		secondDisplay.innerHTML = secondValue;
+		secondDisplay.innerHTML = secondValue; // Otherwise display the two digit value
 	}
 };

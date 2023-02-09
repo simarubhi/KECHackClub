@@ -40,4 +40,4 @@ Please reach out to me if you're looking for tutorial recommendations.
 
 ### Workshops:
 
-None right now
+1. [JavaScript Stopwatch](stopwatch)
