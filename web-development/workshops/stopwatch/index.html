@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<!-- Language of the document -->
+<html lang="en">
+	<head>
+		<!-- Character encoding, learn more:https://developer.mozilla.org/en-US/docs/Glossary/UTF-8 -->
+		<meta charset="UTF-8" />
+		<!-- Add support for older internet explorer browsers -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<!-- Defines the area on the screen where content can be seen -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<!-- Title of the page -->
+		<title>Stopwatch</title>
+		<!-- Link to CSS styling from style.css -->
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	<body>
+		<div class="container">
+			<div class="stopwatch">
+				<div class="display-container">
+					<div class="data-container">
+						<span class="time-value hour">00</span>
+						<span class="label">Hours</span>
+					</div>
+
+					<span class="colon">:</span>
+
+					<div class="data-container">
+						<span class="time-value minute">00</span>
+						<span class="label">Minutes</span>
+					</div>
+
+					<span class="colon">:</span>
+
+					<div class="data-container">
+						<span class="time-value second">00</span>
+						<span class="label">Seconds</span>
+					</div>
+				</div>
+
+				<div class="button-container">
+					<button class="btn start">Start</button>
+					<button class="btn stop">Stop</button>
+					<button class="btn reset">Reset</button>
+				</div>
+			</div>
+		</div>
+		<script src="script.js"></script>
+	</body>
+</html>
