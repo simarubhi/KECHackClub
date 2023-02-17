@@ -1,0 +1,39 @@
+/* RESET STYLES */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+:root {
+	font-size: 16px;
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	width: 100vw;
+	height:100vh;
+}
+
+.container .stopwatch {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: 500px;
+	padding: 30px 50px;
+	border:  1px solid black;
+	box-shadow: 0 0 5px lightgray;
+	border-radius: 5px;
+	user-select: none;
+}
+
+.container .stopwatch .display-container {
+	display: flex;
+}
+
+.container .stopwatch .display-container .data-container {
+	
+}
