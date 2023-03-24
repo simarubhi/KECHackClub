@@ -23,6 +23,7 @@ startBtn.addEventListener('click', () => {
 })
 
 stopBtn.addEventListener('click', () => {
+	if (timerCounting == false) return;
 	timerCounting = false;
 	startBtn.innerHTML = 'Resume';
 })
@@ -39,7 +40,7 @@ resetBtn.addEventListener('click', () => {
 
 
 const timerCount = () => {
-	if (timerCount == false) return;
+	if (timerCounting == false) return;
 
 	secondValue = secondValue + 1;
 
