@@ -26,8 +26,8 @@ Here are some example projects:
 ### Tutorials:
 
 -   [Python tutorial](https://www.youtube.com/watch?v=kqtD5dpn9C8&t=64s&ab_channel=ProgrammingwithMosh)
--   [Machine learning tutorial](https://www.youtube.com/watch?v=7eh4d6sabA0&ab_channel=ProgrammingwithMosh
-- [Machine learning tutorial (longer)](https://www.youtube.com/watch?v=i_LwzRVP7bg&t=63s&ab_channel=freeCodeCamp.org)
+-   [Machine learning tutorial](https://www.youtube.com/watch?v=7eh4d6sabA0&ab_channel=ProgrammingwithMosh)
+-   [Machine learning tutorial (longer)](https://www.youtube.com/watch?v=i_LwzRVP7bg&t=63s&ab_channel=freeCodeCamp.org)
 
 ---
 
