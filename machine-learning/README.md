@@ -20,6 +20,7 @@ Here are some example projects:
 
 -   [https://elitedatascience.com/machine-learning-projects-for-beginners](https://elitedatascience.com/machine-learning-projects-for-beginners)
 -   [https://data-flair.training/blogs/machine-learning-project-ideas/](https://data-flair.training/blogs/machine-learning-project-ideas/)
+- [https://thecleverprogrammer.com/2020/08/21/deploy-a-chatbot-with-python/](https://thecleverprogrammer.com/2020/08/21/deploy-a-chatbot-with-python/)
 
 ---
 
