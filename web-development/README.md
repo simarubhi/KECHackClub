@@ -21,6 +21,7 @@ Here are some example projects:
 -   [https://workshops.hackclub.com#web_development](https://workshops.hackclub.com#web_development)
 -   [https://github.com/Ayushparikh-code/Web-dev-mini-projects](https://github.com/Ayushparikh-code/Web-dev-mini-projects)
 -   [https://youtu.be/fU4o_BKaUZE](https://youtu.be/fU4o_BKaUZE)
+-   [https://www.youtube.com/watch?v=FazgJVnrVuI&ab_channel=BrianDesign](https://www.youtube.com/watch?v=FazgJVnrVuI&ab_channel=BrianDesign)
 
 ---
 
