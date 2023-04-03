@@ -11,3 +11,7 @@ We can also use [Codeforces](https://codeforces.com/), [CodingBat](https://codin
 ## Our competitions
 
 -   ### [Problem Set #1](problem-set-1)
+
+## External compeitions
+
+- ### [Canadian Computing Competition from The University of Waterloo](https://www.cemc.uwaterloo.ca/contests/ccc-cco.html)
