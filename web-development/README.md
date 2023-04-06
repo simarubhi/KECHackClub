@@ -23,7 +23,7 @@ Here are some example projects:
 -   [https://youtu.be/fU4o_BKaUZE](https://youtu.be/fU4o_BKaUZE)
 -   [https://www.youtube.com/watch?v=FazgJVnrVuI&ab_channel=BrianDesign](https://www.youtube.com/watch?v=FazgJVnrVuI&ab_channel=BrianDesign)
 
-- (https://github.com/smthari/Frontend-Projects/tree/master/Animated%20profile%20card)[https://github.com/smthari/Frontend-Projects/tree/master/Animated%20profile%20card]
+- [https://github.com/smthari/Frontend-Projects/tree/master/Animated%20profile%20card](https://github.com/smthari/Frontend-Projects/tree/master/Animated%20profile%20card)
 
 ---
 
