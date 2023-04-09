@@ -45,3 +45,4 @@ Please reach out to me if you're looking for tutorial recommendations.
 ### Workshops:
 
 1. [JavaScript Stopwatch](workshops/stopwatch)
+2. [Basic Concepts](workshops/basic-concepts)
