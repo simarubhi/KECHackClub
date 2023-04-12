@@ -15,6 +15,7 @@
 ### Example Scratch projects:
 
 Projects can be found on the [explore page](https://scratch.mit.edu/explore/projects/all) of [Scratch](https://scratch.mit.edu/).
+[More projects](https://scratch.mit.edu/ideas)
 
 ---
 
